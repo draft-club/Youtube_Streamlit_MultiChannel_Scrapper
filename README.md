@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 
 # YouTube Data Scraper
-=======
-# youtube_scrapper_streamlit_V10
 
->>>>>>> 669f7aee614b0875022ce92eb7456ad10211d9ea
+
 
 ## Overview
 
