@@ -1,0 +1,8 @@
+pandas
+google-api-python-client
+google-auth
+youtube-transcript-api
+urllib3
+streamlit
+python-dotenv
+openpyxl
